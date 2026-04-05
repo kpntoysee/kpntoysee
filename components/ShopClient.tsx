@@ -2,16 +2,7 @@
 
 import { useMemo, useState } from "react";
 import ProductCard from "@/components/ProductCard";
-
-type Product = {
-  id: string;
-  name: string;
-  slug: string;
-  price: number;
-  stock: number;
-  brand: string | null;
-  short_description?: string | null;
-};
+import { Product } from "@/types/product";
 
 type Props = {
   products: Product[];
