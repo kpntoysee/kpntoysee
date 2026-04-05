@@ -1,0 +1,17 @@
+export const productImages: Record<string, string> = {
+  "rolls-royce-phantom-diecast": "/products/rolls-royce-phantom-diecast.jpg",
+  "bmw-drift-rc": "/products/bmw-drift-rc.jpg",
+  "cirbox-hobby-grade-rc": "/products/cirbox-hobby-grade-rc.jpg",
+  "fighter-jet-rc": "/products/fighter-jet-rc.jpg",
+  "moka-vintage-rc": "/products/moka-vintage-rc.jpg",
+  "porsche-drift-rc": "/products/porsche-drift-rc.jpg",
+  "off-road-buggy-rc": "/products/off-road-buggy-rc.jpg",
+  "rock-crawler-rc-1-16": "/products/rock-crawler-rc-1-16.jpg",
+  "mustang-rc-drift": "/products/mustang-rc-drift.jpg",
+  "jeep-wrangler-diecast": "/products/jeep-wrangler-diecast.jpg",
+  "benz-roadster-1936-diecast": "/products/benz-roadster-1936-diecast.jpg",
+  "bmw-m3-e30-diecast": "/products/bmw-m3-e30-diecast.jpg",
+  "bmw-s1000rr-diecast": "/products/bmw-s1000rr-diecast.jpg",
+  "rc-excavator": "/products/rc-excavator.jpg",
+  "rock-crawler-rc-45kmh": "/products/rock-crawler-rc-45kmh.jpg",
+};
